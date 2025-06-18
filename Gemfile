@@ -11,3 +11,6 @@ end
 
 gem 'github-pages'
 gem 'connection_pool', '2.5.0'
+
+# Windows 平台需要时区数据支持
+gem 'tzinfo-data'
